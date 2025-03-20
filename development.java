@@ -1,6 +1,6 @@
 public class development{
     public static void main(String[] args) {
-        // Printing a welcome message
+        // Printing a welcome message ra em anukoku
         System.out.println("Hello, Welcome to Java Programming!");
         
         int a = 10;
